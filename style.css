@@ -1,0 +1,18 @@
+.tableTime {
+   width: 300px;
+   margin: 0 auto;
+   text-align: center;
+}
+table {
+   margin: 0 auto;
+   border-collapse: collapse;
+}
+tr:first-child {
+   font-weight: 800;
+}
+td {
+   border: 2px solid black;
+   width: 100px;
+   height: 30px;
+   text-align: center;
+}
